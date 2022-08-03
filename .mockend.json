@@ -1,5 +1,9 @@
 {
     "User": {
       "title": { "string": {} }
+    },
+    "Artist": {
+      "name": { "string": ["Bruno", "Jeniffer", "Taylor"] },
+      "country": { "string": {} }
     }
 }
